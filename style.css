@@ -107,7 +107,7 @@ body {
   left: -1px;
   right: -1px;
   height: 120px;
-  background: #fece6dd;
+  background: #ece6dd;
   clip-path: polygon(0 0, 50% 40%, 100% 0, 100% 100%, 0 100%);
   border-top: 1px solid #e2e8f0;
   border-radius: 0 0 4px 4px;
